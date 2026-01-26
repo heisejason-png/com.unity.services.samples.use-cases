@@ -77,3 +77,5 @@ To set up Cloud Diagnostics and User Reporting in your own project, follow the s
 [Setting up Cloud Diagnostics](https://unitytech.github.io/clouddiagnostics/userreporting/UnityCloudDiagnosticsSettingUp.html)
 
 _Note: If you don't want to automatically send exception data, disable Cloud Diagnostics under Project Settings > Services > Cloud Diagnostics._
+
+Created by Jason Scott Heise
