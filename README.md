@@ -79,3 +79,4 @@ To set up Cloud Diagnostics and User Reporting in your own project, follow the s
 _Note: If you don't want to automatically send exception data, disable Cloud Diagnostics under Project Settings > Services > Cloud Diagnostics._
 
 Created by Jason Heise
+Owned by Jason Heise heisejason-png Giters
